@@ -1,15 +1,8 @@
 
 Hello there! I'm Sol, a backend developer with a strong interest in cloud computing and automation technologies. I am passionate about leveraging data-driven solutions to tackle complex problems and drive business growth.
 
-## Background
-I have 3 years of experience in the field of software development. Throughout my career, I have worked on various projects involving data ingestion, data modeling, ETL pipelines, data warehousing, and analytics. I have hands-on experience with both structured and unstructured data, utilizing technologies such as SQL, Python, and big data frameworks like Apache Spark.
-
-## Expertise
-- Data engineering: Designing, building, and maintaining scalable data pipelines for efficient data processing and integration.
-- Cloud computing: Proficient in leveraging cloud platforms like AWS, Azure, or GCP to architect and deploy scalable and cost-effective data solutions.
-- Data warehousing: Designing and implementing data warehousing solutions using tools like Amazon Redshift, Snowflake, or Google BigQuery.
-- ETL processes: Developing robust ETL workflows to extract, transform, and load data from various sources into the target data systems.
-- Data modeling: Creating logical and physical data models that align with business requirements and enable efficient data analysis.
+## Background 
+I have 3 years of experience in the field of software development. Throughout my career, I have contributed to various projects involving API design, server-side development, database integration, microservices architecture, and performance optimization. I am well-versed in utilizing Go's concurrency features and its efficient memory management to build robust and high-performance applications.
 
 ## Expertise
 - Backend development: Designing, coding, and maintaining scalable and efficient backend systems that power web and mobile applications.
