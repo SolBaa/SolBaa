@@ -2,7 +2,7 @@
 Hello there! I'm Sol, a backend developer with a strong interest in cloud computing and automation technologies. I am passionate about leveraging data-driven solutions to tackle complex problems and drive business growth.
 
 ## Background 
-I have 3 years of experience in the field of software development. Throughout my career, I have contributed to various projects involving API design, server-side development, database integration, microservices architecture, and performance optimization. I am well-versed in utilizing Go's concurrency features and its efficient memory management to build robust and high-performance applications.
+I have 4 years of experience in the field of software development. Throughout my career, I have contributed to various projects involving API design, server-side development, database integration, microservices architecture, and performance optimization. I am well-versed in utilizing Go's concurrency features and its efficient memory management to build robust and high-performance applications.
 
 ## Expertise
 - Backend development: Designing, coding, and maintaining scalable and efficient backend systems that power web and mobile applications.
