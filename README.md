@@ -19,7 +19,7 @@ Feel free to reach out to me if you have any questions or would like to discuss 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/battaglia-sol/)
 - Resume: [Curriculum](cv.solbattaglia.com)
 
-Let's connect and explore the exciting world of data engineering together!
+Let's connect and explore the exciting world of software together!
 
 
 <!---
